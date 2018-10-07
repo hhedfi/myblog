@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.thinkulity.myblog",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.4.1",
+    "applicationType": "monolith",
+    "baseName": "jblog",
+    "packageName": "com.thinkulity.myblog",
+    "packageFolder": "com/thinkulity/myblog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTc0OWZkNGU2ZGE0OTA4Yzg5ODFkZTJkMDU4ZmViMzYwZmFjMjVmNTU1N2Q0NGY0ZWMxYmM3MmQxMjkwOTVhZjBjMGYwZTNiMzk1N2VjMWI4YmJkNmQzMTE2ZGYzZWFlNGFhNzRkMTRlODgxZTY0OGIyMGNmMzZkNjUzNzU2NjI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr"
+    ]
+  }
+}
